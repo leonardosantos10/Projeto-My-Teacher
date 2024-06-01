@@ -1,0 +1,75 @@
+*  {
+
+    font-family: 'inter', sans-serif;
+}
+
+.header {
+  
+  padding: 50px 0;
+  background-color:  #ffa500 ;
+
+}
+
+.logo {
+
+    display: block;
+    margin: 40px auto 50px auto;
+}
+
+.text-header {
+
+    text-align: center;       /* texto alinhado ao centro */
+    font-weight:600;
+}
+
+/* Campo de professores /estilização do fundo section */
+
+.campo-professores {
+
+    background-color: #d3d3d3;
+    padding: 100px 0;
+}
+
+.prof {
+    max-width: 350px;    /*largura máxima*/
+    margin: 0 auto 50px auto;
+    text-align: center;
+}
+
+.img-prof {
+
+    width: 100%;
+}
+
+.nome-prof {
+
+    font-size: 15px;
+    font-weight: 900px;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.valor-prof {
+
+    color: #ff6347;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.descricao-prof {
+
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 37px;
+}
+
+.calc-prof {
+
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff6347;
+    padding: 16px 44px;
+    font-weight: 900;
+}
