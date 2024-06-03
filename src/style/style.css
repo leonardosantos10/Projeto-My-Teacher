@@ -1,25 +1,29 @@
 *  {
 
     font-family: 'inter', sans-serif;
+    
 }
 
 .header {
   
-  padding: 50px 0;
+  padding: 10px 0;
   background-color:  #ffa500 ;
-
 }
 
 .logo {
 
     display: block;
-    margin: 40px auto 50px auto;
+     cursor: pointer;
+    margin: 10px auto 20px auto;
+    
 }
 
 .text-header {
 
     text-align: center;       /* texto alinhado ao centro */
     font-weight:600;
+    margin-bottom: 20px;
+    
 }
 
 /* Campo de professores /estilização do fundo section */
@@ -37,7 +41,7 @@
 }
 
 .img-prof {
-
+    cursor: pointer;
     width: 100%;
 }
 
