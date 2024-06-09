@@ -9,5 +9,5 @@ Projeto está Responsivo, Neste Projeto utilizei a seguintes Tecnologias:</h3>
 
 <h3>imagem abaixo Para Site e mobile:</h3>
   <img src= "https://github.com/leonardosantos10/Projeto-My-Teacher/blob/main/assets/desktop1.png?raw=true"/>
-  <img src=""/>
+  <img src="https://github.com/leonardosantos10/Projeto-My-Teacher/blob/main/assets/desktop.2.png?raw=true"/>
    <img src=""/>
